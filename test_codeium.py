@@ -1,4 +1,3 @@
-# define a function to sum num1 and num2
 def sum(num1: int, num2: int) -> int:
     """
     計算兩個整數的總和。
@@ -10,12 +9,17 @@ def sum(num1: int, num2: int) -> int:
     Returns:
         int: 兩個整數的總和。
     """
-    # Add the two integers together and return the result
     return num1 + num2
 
-def get_dict():
-    return {"a": 1, "b": 2}
 
+def get_dict():
+    """
+    Get a dictionary with keys "a" and "b" and values 1 and 2 respectively.
+
+    Returns:
+        dict: A dictionary with keys "a" and "b" and values 1 and 2 respectively.
+    """
+    return {"a": 1, "b": 2}
 
 
 def main() -> None:
@@ -31,4 +35,3 @@ def main() -> None:
 
     # Print the result of the `sum` function
     print(result)
-
