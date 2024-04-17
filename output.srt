@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,536
+ Hi Avers!
+
+2
+00:00:01,536 --> 00:00:04,607
+ Hey Ava's, Ava's stop, Ava's over.
+
+3
+00:00:04,607 --> 00:00:14,884
+ Google Cloud Text to Speech enables developers to synthesize natural sounding speech with 100 plus voices, available in multiple languages and variants.
+
